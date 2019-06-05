@@ -1,0 +1,11 @@
+{
+  "name": "convertor",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "convertor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enrique <enrique.jmz37@gmail.com>",
+  "license": "MIT"
+}
